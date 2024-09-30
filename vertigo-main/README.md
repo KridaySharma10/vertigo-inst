@@ -1,5 +1,4 @@
-# Insta-Cypher: Instagram Password Cracker
-# Developed And Designed By Pralin Khaira
+js use it alr
 
 ## Description
 
